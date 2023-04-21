@@ -11,14 +11,15 @@
 --------------------------------------------------------------------------------
 # Better Sign Language Translation with Large-Scale Monolingual Data
 
-## 适用于Dr.Chen
+## Cite
 
-  1> google云盘下载data.tar.gz,stanza_resources.tar.gz,nltk_data.tar.gz;
+[Mono-SLT paper]():
 
-  2> data.tgz解压到/share03/khchen/work/pengru/data/, stanza_resources.tgz,nltk_data.tgz解压到/share03/khchen/work/pengru/;
-
-  3> Requirements (stanza 1.2.0, toma 1.1.0, nltk 3.5, sacrebleu1.4.14)
-
-     pip install stanza, toma, nltk, sacrebleu
-
-  4> 运行mono_slt/experiments_chen/full_*.sh; (9个)
+```
+@article{peng2022better,
+  title={Better Sign Language Translation with Monolingual Data},
+  author={Ru Peng and Yawen Zeng and Junbo Zhao},
+  journal={arXiv preprint arXiv:xxx},
+  year={2023}
+}
+```
