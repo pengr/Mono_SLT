@@ -1,4 +1,4 @@
-## Better Sign Language Translation with Large-Scale Monolingual Data [[Paper]](https://arxiv.org/abs/2304.10844))
+## Better Sign Language Translation with Large-Scale Monolingual Data [[Paper]](https://arxiv.org/abs/2304.10844)
 
 ## Citation
 If you use the code in your research, please cite:
